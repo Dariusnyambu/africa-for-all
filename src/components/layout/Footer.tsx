@@ -138,7 +138,7 @@ export default function Footer() {
             © {new Date().getFullYear()} {SITE_CONFIG.name}. All rights reserved.
           </p>
           <p className="text-xs text-sand-300/60">
-            Built with purpose, in Nairobi.
+            Built by royal graphix.
           </p>
         </div>
       </div>
